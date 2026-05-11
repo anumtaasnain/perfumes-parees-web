@@ -88,7 +88,7 @@ document.getElementById('footer').innerHTML=`
                         <h3>Useful Links &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Services</span></h3>
                     </div>
                     <ul>
-                        <li><a href="Paarees.html">Home</a></li>
+                        <li><a href="index.html">Home</a></li>
                         <li><a href="Sale Item.html">Sale</a></li>
                         <li><a href="about us .html">About Us</a></li>
                         <li><a href="policy.html">Return Policy</a></li>
